@@ -21,8 +21,11 @@ This is a profile where I will be uploading random projects, coding experiments,
 ## A Bit About Me
 
 ● 🍵 Tea Drinker
+
 ● ⛩️ Into Anime - "The Fragrant Flower Blooms With Dignity" is a favorite
+
 ● ⏱️ Efficiency is my forte, my projects here should be simple and useful
+
 ● 💍 Engaged, will marry soon!!!
 <!--
 **jeevantech123/jeevantech123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
