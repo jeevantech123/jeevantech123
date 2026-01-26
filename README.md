@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hey there 👋
 
+I am an aspiring software developer who is still in university.
+
+Mostly a frontend developer for now, but as I get better at my work I plan on getting into backend and etc.
+
+I also use adobe and other software such as canva to design and edit videos when I have extra freetime.
 <!--
 **jeevantech123/jeevantech123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
