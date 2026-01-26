@@ -11,8 +11,11 @@ This is a profile where I will be uploading random projects, coding experiments,
 ## Tools, Tech, and Skills
 
 ● All Microsoft and Adobe projects
+
 ● Prominent in using IDEs, especially IntelliJ
+
 ● Good desktop computer and internet access
+
 ● Skilled in basic Java and Python, little bit of C++ and x86-64 assembly
 <!--
 **jeevantech123/jeevantech123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
