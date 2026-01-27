@@ -6,7 +6,7 @@ Mostly a frontend developer for now, but as I get better at my work I plan on ge
 
 I also use adobe and other software such as canva to design and edit videos when I have extra freetime.
 
-This is a profile where I will be uploading random projects, coding experiments, and anything else I feel like should be public. Everything here is built by myself, without any AI generation or copy pasting.
+This is a profile where I will be uploading random projects, coding experiments, and anything else I feel like should be public. Everything here is built for myself, so I might not update projects once they are posted.
 
 ## Tools, Tech, and Skills
 
