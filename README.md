@@ -24,7 +24,7 @@ This is a profile where I will be uploading random projects, coding experiments,
 
 ● ⛩️ Into Anime - "The Fragrant Flower Blooms With Dignity" is a favorite
 
-● ⏱️ Efficiency is my forte, my projects here should be simple and useful
+● ⏱️ Persistent, once I start something I will finish it
 
 ● 🎮 I am very much into gaming!
 
