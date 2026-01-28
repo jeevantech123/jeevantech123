@@ -16,7 +16,9 @@ This is a profile where I will be uploading random projects, coding experiments,
 
 ● Good desktop computer and internet access
 
-● Skilled in basic Java and Python, little bit of C++ and x86-64 assembly
+● Skilled in basic Java, Python, HTML/CSS, little bit of C++ and x86-64 assembly
+
+● Basics of Data Structures and Algorithms
 
 ## A Bit About Me
 
