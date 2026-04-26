@@ -24,7 +24,7 @@ This is a profile where I will be uploading random projects, coding experiments,
 
 ● 🍵 Tea Drinker
 
-● ⛩️ Into Anime - "The Fragrant Flower Blooms With Dignity" is a favorite
+● ⛩️ Into Anime 
 
 ● ⏱️ Persistent, once I start something I will finish it
 
